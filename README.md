@@ -100,6 +100,3 @@ authentication.
 - [Anthropic API](https://docs.claude.com) (Claude Sonnet)
 - [World Bank Indicators API](https://datahelpdesk.worldbank.org/knowledgebase/articles/889392-about-the-indicators-api-documentation) (free, public, no auth)
 
-## License
-
-MIT
